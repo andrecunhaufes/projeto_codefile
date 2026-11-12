@@ -1,3 +1,4 @@
+// teste da fila do code_structure (Dev, 12/11)
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { GuardaAutenticado, GuardaPerfil, GuardaPublica } from '@/componentes/Guardas';
